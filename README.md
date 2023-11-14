@@ -11,8 +11,8 @@ From the first day we met to the adventures we've embarked on together, each mom
 As we navigate through this beautiful journey of life, I want you to know how grateful I am to have you by my side. Your love is the anchor that keeps me grounded, and your kindness is a beacon that lights my path.
 
 ## Photo Gallery
-![Memorable Photo 1](url/to/image1.jpg)
-![Memorable Photo 2](url/to/image2.jpg)
+![Memorable Photo 1](https://i.ibb.co/54vLxzK/your-image1.jpg)
+![Memorable Photo 2](https://i.ibb.co/HDc2hbW/your-image2.jpg)
 ...
 
 Here's to many more shared smiles, shared dreams, and shared love. Happy November 20, 2023, my love.
